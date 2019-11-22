@@ -1,0 +1,22 @@
+/* Add application styles & imports to this file! */
+*{
+  padding-top: 0;
+  margin: 0;
+  
+}
+
+body
+{
+  background-size: cover ;
+    /* background-position: center;*/
+  box-sizing: border-box;
+  font-family: sans-serif;
+  background-repeat: no-repeat;
+   background: url('https://splashbase.s3.amazonaws.com/unsplash/regular/tumblr_mnh0n9pHJW1st5lhmo1_1280.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+
+
